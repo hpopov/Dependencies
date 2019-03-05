@@ -1,0 +1,1 @@
+mvn install:install-file -DlocalRepositoryPath=D:\Г\Dependencies -Dfile=%1
