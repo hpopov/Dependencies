@@ -3,14 +3,15 @@
   <groupId>ua.com.kl.cmathtutor</groupId>
   <artifactId>DataAnalysisApi</artifactId>
   <versioning>
-    <release>1.2.2alpha</release>
+    <release>1.2.3alpha</release>
     <versions>
       <version>1.1.0alpha</version>
       <version>1.1.1alpha</version>
       <version>1.1.2alpha</version>
       <version>1.2.1alpha</version>
       <version>1.2.2alpha</version>
+      <version>1.2.3alpha</version>
     </versions>
-    <lastUpdated>20190407105243</lastUpdated>
+    <lastUpdated>20190407163307</lastUpdated>
   </versioning>
 </metadata>
