@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ua.cmathtutor.startledfrog</groupId>
+  <artifactId>SpringBoot-dependencies</artifactId>
+  <versioning>
+    <release>0.0.1-a</release>
+    <versions>
+      <version>0.0.1-a</version>
+    </versions>
+    <lastUpdated>20200516203705</lastUpdated>
+  </versioning>
+</metadata>
